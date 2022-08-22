@@ -40,15 +40,21 @@ body {
     position: absolute;
 }
 
+.bg__image--dots-2 {
+    top: 0;
+    right: 70%;
+    animation: rotate 40s linear infinite;
+}
+
 .bg__image--button {
     top: 0;
-    right: 60%;
+    right: 50%;
     animation: slideDown 12s linear infinite;
 }
 
 .bg__image--dots {
     top: 0;
-    left: 50%;
+    left: 70%;
     animation: rotate 40s linear infinite;
 }
 
